@@ -1,3 +1,5 @@
+# surv
+### surv is the result impatience, dealing with a Docker build that took three minutes for every minor change, even to UI and CSS.
 
 1. `git clone`
 2. `yarn`
